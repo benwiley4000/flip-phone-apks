@@ -61,7 +61,7 @@ A Google Maps alternative that is more-or-less fully usable with D-Pad + OK.
 
 The offline maps can be huge in terms of device footprint for a dumb phone. I recommend getting the offline maps, but just download the area you need.
 
-##### For distractionless navigation
+#### For distractionless navigation
 
 The app has voice directions functionality that does not work, at least on my phone, although that can be sorely missing if you're biking and can't look at your phone.
 
