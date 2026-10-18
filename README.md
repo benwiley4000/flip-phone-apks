@@ -43,7 +43,7 @@ The rest of this document explains the usage of the different included APKS
 
 ## app.vela
 
-<img width="50" src="./img/app.vela.svg">
+<img width="72" src="./img/app.vela.svg">
 
 [Source and releases](https://github.com/PimpinPumpkin/Vela)
 
@@ -69,7 +69,7 @@ Instead, enable the feature that vibrates with different patterns to indicate le
 
 ## com.beemdevelopment.aegis
 
-<img width="50" src="./img/com.beemdevelopment.aegis.png">
+<img width="72" src="./img/com.beemdevelopment.aegis.png">
 
 [Source and releases](https://github.com/beemdevelopment/aegis)
 
@@ -101,7 +101,7 @@ After you finish registering an entry, you'll land on an empty registration scre
 
 ## com.cxinventor.file.explorer
 
-<img width="50" src="./img/com.cxinventor.file.explorer.png">
+<img width="72" src="./img/com.cxinventor.file.explorer.png">
 
 *There's no "official" apk source other than the Play store. I recommend APKMirror if you need another version.*
 
@@ -132,7 +132,7 @@ After installing or removing an app, Cx File Explorer basically stops working. Y
 
 ## com.evdeman.flip2calendar
 
-<img width="50" src="./img/com.evdeman.flip2calendar.webp">
+<img width="72" src="./img/com.evdeman.flip2calendar.webp">
 
 [Source and releases](https://github.com/jevdemon/flip2calendar)
 
@@ -160,7 +160,7 @@ I wouldn't recommend doing this inside the app. You can't choose a different tim
 
 ## com.raiiware.forcestophelper
 
-<img width="50" src="./img/com.raiiware.forcestophelper.png">
+<img width="72" src="./img/com.raiiware.forcestophelper.png">
 
 [Source and releases](https://codeberg.org/raiiware/ForceStopHelper)
 
@@ -174,7 +174,7 @@ An app whose only purpose is to kill another app, since your flip phone probably
 
 ## com.retsend
 
-<img width="50" src="./img/com.retsend.png">
+<img width="72" src="./img/com.retsend.png">
 
 [Source and releases](https://github.com/mxmgorin/retsend)
 
@@ -194,7 +194,7 @@ The default UI is pretty small. I would recommend going into the settings and in
 
 ## com.rickgram.NoBrowser
 
-<img width="50" src="./img/com.rickgram.NoBrowser.webp">
+<img width="72" src="./img/com.rickgram.NoBrowser.webp">
 
 [Source and releases](https://github.com/rickgram/NoBrowser)
 
@@ -210,7 +210,7 @@ NoBrowser lets you open links to web pages, but it doesn't let you look up web a
 
 ## com.zacharee1.dpichanger
 
-<img width="50" src="./img/com.zacharee1.dpichanger.webp">
+<img width="72" src="./img/com.zacharee1.dpichanger.webp">
 
 *This is sort of a sketchy, old download, use at your own risk.*
 
@@ -236,7 +236,7 @@ It requires a [virtual mouse](#io.github.crealivity.dptvcursor) to work. Perhaps
 
 ## io.github.crealivity.dptvcursor
 
-<img width="50" src="./img/io.github.crealivity.dptvcursor.png">
+<img width="72" src="./img/io.github.crealivity.dptvcursor.png">
 
 [Source and releases](https://github.com/Crealivity/DPTV-Cursor)
 
@@ -258,7 +258,7 @@ This is indeed annoying to do. That's why I recommend apps that usually don't re
 
 ## mobi.lockdown.weather
 
-<img width="50" src="./img/mobi.lockdown.weather.png">
+<img width="72" src="./img/mobi.lockdown.weather.png">
 
 *Old build from 2022, because the newer version didn't work for me.*
 
@@ -280,7 +280,7 @@ To configure the app, you need a [virtual mouse](#io.github.crealivity.dptvcurso
 
 ## org.benwiley.bixi4flip
 
-<img width="50" src="./img/org.benwiley.bixi4flip.png">
+<img width="72" src="./img/org.benwiley.bixi4flip.png">
 
 [Source and releases](https://github.com/benwiley4000/bixi4flip)
 
@@ -296,7 +296,7 @@ Shows the map of the Bixi bikeshare system, with D-Pad navigation.
 
 ## org.benwiley.stm4flip
 
-<img width="50" src="./img/org.benwiley.stm4flip.png">
+<img width="72" src="./img/org.benwiley.stm4flip.png">
 
 [Source and releases](https://github.com/benwiley4000/stm4flip)
 
@@ -312,7 +312,7 @@ Shows the locations of nearby STM bus stops and what times the next 3 buses will
 
 ## org.koreader.launcher
 
-<img width="50" src="./img/org.koreader.launcher.png">
+<img width="72" src="./img/org.koreader.launcher.png">
 
 [Source and releases](https://github.com/koreader/koreader)
 
@@ -340,7 +340,7 @@ If you have a choice to use EPUB instead of PDF, it's a much better experience.
 
 ## org.korosoft.simplenotepad.android
 
-<img width="50" src="./img/org.korosoft.simplenotepad.android.webp">
+<img width="72" src="./img/org.korosoft.simplenotepad.android.webp">
 
 *I could only find this one at APKPure*
 
