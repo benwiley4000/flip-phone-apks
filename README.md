@@ -1,5 +1,7 @@
 # flip-phone-apks
 
+[App list](#app-list)
+
 This is a curation of Android APKs that I use on my 32-bit ARMv7 Android 10 dumb phone that does not run Google services.
 
 My phone is a ZTE Cymbal 2, but these should work on the TCL Flip 2 or other Android-based dumb/flip phones.
@@ -27,6 +29,7 @@ The only places I would recommend finding newer APK versions are, in preferentia
 - The GitHub/Codeberg pages linked
 - [F-Droid](https://f-droid.org) (verify what you're downloading)
 - [APKMirror](https://www.apkmirror.com/) (verify what you're downloading)
+- [APKPure](https://apkpure.com/) (verify what you're downloading)
 
 Do not download APKs from oddly specific websites ranked high in Google search results, that seem to be dedicated only to you obtaining the APK file for this one app.
 
@@ -34,7 +37,13 @@ Do not download APKs from oddly specific websites ranked high in Google search r
 
 On some phones (like mine) there is a secret code to access the "all installed apps" page. Mine is hitting the CLR (Back) button 8 times from the home screen.
 
+### App list
+
+The rest of this document explains the usage of the different included APKS
+
 ## app.vela
+
+<img width="50" src="./img/app.vela.svg">
 
 [Source and releases](https://github.com/PimpinPumpkin/Vela)
 
@@ -59,6 +68,8 @@ The app has voice directions functionality that does not work, at least on my ph
 Instead, enable the feature that vibrates with different patterns to indicate left and right turns. With a bit of practice, this can be used to navigate eyes-free and hands-free.
 
 ## com.beemdevelopment.aegis
+
+<img width="50" src="./img/com.beemdevelopment.aegis.png">
 
 [Source and releases](https://github.com/beemdevelopment/aegis)
 
@@ -90,6 +101,8 @@ After you finish registering an entry, you'll land on an empty registration scre
 
 ## com.cxinventor.file.explorer
 
+<img width="50" src="./img/com.cxinventor.file.explorer.png">
+
 *There's no "official" apk source other than the Play store. I recommend APKMirror if you need another version.*
 
 [Found at APKMirror](https://www.apkmirror.com/apk/cx-file-explorer/cx-file-explorer/)
@@ -119,6 +132,8 @@ After installing or removing an app, Cx File Explorer basically stops working. Y
 
 ## com.evdeman.flip2calendar
 
+<img width="50" src="./img/com.evdeman.flip2calendar.webp">
+
 [Source and releases](https://github.com/jevdemon/flip2calendar)
 
 ### App name
@@ -145,6 +160,8 @@ I wouldn't recommend doing this inside the app. You can't choose a different tim
 
 ## com.raiiware.forcestophelper
 
+<img width="50" src="./img/com.raiiware.forcestophelper.png">
+
 [Source and releases](https://codeberg.org/raiiware/ForceStopHelper)
 
 ### App name
@@ -156,6 +173,8 @@ Force Stop Helper
 An app whose only purpose is to kill another app, since your flip phone probably doesn't have the task killer view built-in that most Android phones have.
 
 ## com.retsend
+
+<img width="50" src="./img/com.retsend.png">
 
 [Source and releases](https://github.com/mxmgorin/retsend)
 
@@ -173,7 +192,9 @@ A client for LocalSend. Pair it with the LocalSend app on your computer to send 
 
 The default UI is pretty small. I would recommend going into the settings and increasing the UI size to 140% or 160%, which might bleed over the edges a bit, but you'll find the app is easier to read and use.
 
-## com.rickgram.NoBrowser_0.3.1.apk
+## com.rickgram.NoBrowser
+
+<img width="50" src="./img/com.rickgram.NoBrowser.webp">
 
 [Source and releases](https://github.com/rickgram/NoBrowser)
 
@@ -188,6 +209,8 @@ If you're like me and trying to limit distractions, you uninstalled your web bro
 NoBrowser lets you open links to web pages, but it doesn't let you look up web addresses directy.
 
 ## com.zacharee1.dpichanger
+
+<img width="50" src="./img/com.zacharee1.dpichanger.webp">
 
 *This is sort of a sketchy, old download, use at your own risk.*
 
@@ -213,6 +236,8 @@ It requires a [virtual mouse](#io.github.crealivity.dptvcursor) to work. Perhaps
 
 ## io.github.crealivity.dptvcursor
 
+<img width="50" src="./img/io.github.crealivity.dptvcursor.png">
+
 [Source and releases](https://github.com/Crealivity/DPTV-Cursor)
 
 ### App name
@@ -232,6 +257,8 @@ Pressing OK to click the mouse does not work, at least not on my phone. My worka
 This is indeed annoying to do. That's why I recommend apps that usually don't require a virtual mouse.
 
 ## mobi.lockdown.weather
+
+<img width="50" src="./img/mobi.lockdown.weather.png">
 
 *Old build from 2022, because the newer version didn't work for me.*
 
@@ -253,6 +280,8 @@ To configure the app, you need a [virtual mouse](#io.github.crealivity.dptvcurso
 
 ## org.benwiley.bixi4flip
 
+<img width="50" src="./img/org.benwiley.bixi4flip.png">
+
 [Source and releases](https://github.com/benwiley4000/bixi4flip)
 
 ### App name
@@ -267,6 +296,8 @@ Shows the map of the Bixi bikeshare system, with D-Pad navigation.
 
 ## org.benwiley.stm4flip
 
+<img width="50" src="./img/org.benwiley.stm4flip.png">
+
 [Source and releases](https://github.com/benwiley4000/stm4flip)
 
 ### App name
@@ -280,6 +311,8 @@ Useless if you're not in Montréal, Québec.
 Shows the locations of nearby STM bus stops and what times the next 3 buses will arrive.
 
 ## org.koreader.launcher
+
+<img width="50" src="./img/org.koreader.launcher.png">
 
 [Source and releases](https://github.com/koreader/koreader)
 
@@ -306,6 +339,8 @@ You can't zoom, so most PDFs are very tiny and hardly legible, if at all.
 If you have a choice to use EPUB instead of PDF, it's a much better experience.
 
 ## org.korosoft.simplenotepad.android
+
+<img width="50" src="./img/org.korosoft.simplenotepad.android.webp">
 
 *I could only find this one at APKPure*
 
