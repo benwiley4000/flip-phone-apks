@@ -259,7 +259,7 @@ You can't zoom, so most PDFs are very tiny and hardly legible, if at all.
 
 If you have a choice to use EPUB instead of PDF, it's a much better experience.
 
-# org.korosoft.simplenotepad.android
+## org.korosoft.simplenotepad.android
 
 *I could only find this one at APKPure*
 
