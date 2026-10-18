@@ -113,10 +113,10 @@ Cx File Explorer
 
 ### What it is
 
-A file explorer that likely adds some needed functionality beyond your basic file explorer, including:
+A file explorer that adds some useful functionality beyond your basic file explorer, including:
 
 - Installing APKs (if authorized)
-- Browing and deleting intalled APKs
+- Uninstalling apps
 - Opening more file types than the default file explorer (at least on my phone, e.g. EPUBs)
 - Browsing files on Samba shares
 
