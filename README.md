@@ -8,13 +8,13 @@ My phone is a ZTE Cymbal 2, but these should work on the TCL Flip 2 or other And
 
 Thanks to [this Reddit post](https://www.reddit.com/r/dumbphones/comments/z6mnil/cymbal_2_installed_apps_list_plus_tips_tricks/) which helped me accumulate an initial list of apps to try on the ZTE Cymbal 2.
 
-Some of these are fully operable with D-Pad navigation. Others may occasionally need a [virtual mouse](#io.github.crealivity.dptvcursor), and the [DPI changer](#com.zacharee1.dpichanger) requires one. All apps needing a virtual mouse for certain functionality are noted as such, but generally I've tried to choose apps that can be used day-to-day without one.
+Some of these are fully operable with D-Pad navigation. Others may occasionally need a [virtual mouse](#iogithubcrealivitydptvcursor), and the [DPI changer](#comzacharee1dpichanger) requires one. All apps needing a virtual mouse for certain functionality are noted as such, but generally I've tried to choose apps that can be used day-to-day without one.
 
 ### How to install APKs
 
 You need to enable developer settings, enable USB debugging, connect via USB to a PC, and with adb, run `adb install app.apk` for each apk you want to install, since your phone probably isn't able to install apps on its own.
 
-Alternatively... once you have [Cx File Explorer](#com.cxinventor.file.explorer) and [retsend](#com.retsend) installed, you can enable Cx to install apks like this:
+Alternatively... once you have [Cx File Explorer](#comcxinventorfileexplorer) and [retsend](#comretsend) installed, you can enable Cx to install apks like this:
 
 ```sh
 adb shell appops set com.cxinventor.file.explorer REQUEST_INSTALL_PACKAGES allow
@@ -85,7 +85,7 @@ An authenticator app similar to Google Authenticator, which can be used for 2FA 
 
 #### Navigation
 
-This app is mostly usable with d-pad controls, but there are a couple of notable hangups where you will need a [virtual mouse](#io.github.crealivity.dptvcursor) while registering a new entry:
+This app is mostly usable with d-pad controls, but there are a couple of notable hangups where you will need a [virtual mouse](#iogithubcrealivitydptvcursor) while registering a new entry:
 
 1. When you open the + menu, you need to select "enter manually" (unless your phone reads QR codes well, which mine does not). I had to use the mouse to click this button.
 
@@ -124,7 +124,7 @@ A file explorer that likely adds some needed functionality beyond your basic fil
 
 #### Navigation
 
-Not all functionality is accessible via D-Pad navigation, but the essentials I mentioned are. To access context menus for advanced options, you might need to pull out a [virtual mouse](#io.github.crealivity.dptvcursor).
+Not all functionality is accessible via D-Pad navigation, but the essentials I mentioned are. To access context menus for advanced options, you might need to pull out a [virtual mouse](#iogithubcrealivitydptvcursor).
 
 #### After installing/removing apps
 
@@ -232,7 +232,7 @@ I only use this for rare configuration needs, not on a daily basis.
 
 #### Virtual mouse required
 
-It requires a [virtual mouse](#io.github.crealivity.dptvcursor) to work. Perhaps a better version should be recommended. If you have a suggestion, feel free to make a PR!
+It requires a [virtual mouse](#iogithubcrealivitydptvcursor) to work. Perhaps a better version should be recommended. If you have a suggestion, feel free to make a PR!
 
 ## io.github.crealivity.dptvcursor
 
@@ -276,7 +276,7 @@ A weather app which, if configured for just one location, can show all its essen
 
 #### Virtual mouse for configuration
 
-To configure the app, you need a [virtual mouse](#io.github.crealivity.dptvcursor). Afterward, you can use it without one.
+To configure the app, you need a [virtual mouse](#iogithubcrealivitydptvcursor). Afterward, you can use it without one.
 
 ## org.benwiley.bixi4flip
 
@@ -330,7 +330,7 @@ An e-book and PDF reader that works with either volume or arrow controls for cha
 
 You're gonna have no luck browsing in-app to choose a book, and you won't be able to access the reader configuration. But it works for reading!
 
-For actually opening e-books, I recommend [Cx File Explorer](#com.cxinventor.file.explorer), since the default file explorer may not launch KO Reader correctly.
+For actually opening e-books, I recommend [Cx File Explorer](#comcxinventorfileexplorer), since the default file explorer may not launch KO Reader correctly.
 
 ### PDFs are readable, but barely
 
