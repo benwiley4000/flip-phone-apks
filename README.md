@@ -2,7 +2,7 @@
 
 [App list](#app-list)
 
-This is a curation of Android APKs that I use on my 32-bit ARMv7 Android 10 dumb phone that does not run Google services.
+This is the full list of third-party Android APKs that I use on my 32-bit ARMv7 Android 10 dumb phone that does not run Google services.
 
 My phone is a ZTE Cymbal 2, but these should work on the TCL Flip 2 or other Android-based dumb/flip phones.
 
