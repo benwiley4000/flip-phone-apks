@@ -12,13 +12,13 @@ Some of these are fully operable with D-Pad navigation. Others may occasionally 
 
 You need to enable developer settings, enable USB debugging, connect via USB to a PC, and with adb, run `adb install app.apk` for each apk you want to install, since your phone probably isn't able to install apps on its own.
 
-Alternatively... once you have [CX File Explorer](#com.cxinventor.file.explorer) and [retsend](#com.retsend) installed, you can enable CX to install apks like this:
+Alternatively... once you have [Cx File Explorer](#com.cxinventor.file.explorer) and [retsend](#com.retsend) installed, you can enable Cx to install apks like this:
 
 ```sh
 adb shell appops set com.cxinventor.file.explorer REQUEST_INSTALL_PACKAGES allow
 ```
 
-Then you can send APKs wirelessly to your phone with retsend, and install them from your Downloads folder with CX File Explorer.
+Then you can send APKs wirelessly to your phone with retsend, and install them from your Downloads folder with Cx File Explorer.
 
 ### ⚠️ Finding new APK versions ⚠️
 
@@ -64,7 +64,7 @@ Instead, enable the feature that vibrates with different patterns to indicate le
 
 ### App name
 
-Aegist Authenticator
+Aegis Authenticator
 
 ### What it is
 
@@ -92,6 +92,12 @@ After you finish registering an entry, you'll land on an empty registration scre
 
 *There's no "official" apk source other than the Play store. I recommend APKMirror if you need another version.*
 
+[Found at APKMirror](https://www.apkmirror.com/apk/cx-file-explorer/cx-file-explorer/)
+
+### App name
+
+Cx File Explorer
+
 ### What it is
 
 A file explorer that likely adds some needed functionality beyond your basic file explorer, including:
@@ -109,11 +115,15 @@ Not all functionality is accessible via D-Pad navigation, but the essentials I m
 
 #### After installing/removing apps
 
-After installing or removing an app, CX File Explorer basically stops working. You need to hit back until the app exits, and reopen the app to continue.
+After installing or removing an app, Cx File Explorer basically stops working. You need to hit back until the app exits, and reopen the app to continue.
 
 ## com.evdeman.flip2calendar
 
 [Source and releases](https://github.com/jevdemon/flip2calendar)
+
+### App name
+
+Flip2Calendar
 
 ### What it is
 
@@ -137,6 +147,10 @@ I wouldn't recommend doing this inside the app. You can't choose a different tim
 
 [Source and releases](https://codeberg.org/raiiware/ForceStopHelper)
 
+### App name
+
+Force Stop Helper
+
 ### What it is
 
 An app whose only purpose is to kill another app, since your flip phone probably doesn't have the task killer view built-in that most Android phones have.
@@ -144,6 +158,10 @@ An app whose only purpose is to kill another app, since your flip phone probably
 ## com.retsend
 
 [Source and releases](https://github.com/mxmgorin/retsend)
+
+### App name
+
+retsend
 
 ### What it is
 
@@ -159,6 +177,10 @@ The default UI is pretty small. I would recommend going into the settings and in
 
 [Source and releases](https://github.com/rickgram/NoBrowser)
 
+### App name
+
+NoBrowser
+
 ### What it is
 
 If you're like me and trying to limit distractions, you uninstalled your web browser. But very occasionally, you need to open a link.. for a sign in, to look at the youtube video your friend texted you, whatever.
@@ -170,6 +192,10 @@ NoBrowser lets you open links to web pages, but it doesn't let you look up web a
 *This is sort of a sketchy, old download, use at your own risk.*
 
 [Found at APKPure](https://apkpure.com/dpi-changer/com.zacharee1.dpichanger/download)
+
+### App name
+
+DPI Changer
 
 ### What it is
 
@@ -189,6 +215,10 @@ It requires a [virtual mouse](#io.github.crealivity.dptvcursor) to work. Perhaps
 
 [Source and releases](https://github.com/Crealivity/DPTV-Cursor)
 
+### App name
+
+DPTV Cursor
+
 ### What it is
 
 A virtual mouse that can appear onscreen on command. You long-press the "mute" button to activate, long press again to deactivate.
@@ -207,6 +237,10 @@ This is indeed annoying to do. That's why I recommend apps that usually don't re
 
 [Found at APKMirror](https://www.apkmirror.com/apk/todayweather-co/today-weather-forecast-radar-severe-alert/today-weather-forecast-radar-severe-alert-1-5-0-13-300720-release/today-weather-widget-forecast-radar-alert-1-5-0-13-300720-android-apk-download/)
 
+### App name
+
+Today Weather
+
 ### What it is
 
 A weather app which, if configured for just one location, can show all its essential information with D-Pad navigation. It also sends a daily notification with weather information, whose time can be configured.
@@ -221,6 +255,10 @@ To configure the app, you need a [virtual mouse](#io.github.crealivity.dptvcurso
 
 [Source and releases](https://github.com/benwiley4000/bixi4flip)
 
+### App name
+
+Bixi 4 Flip
+
 ### What it is
 
 Useless if you're not in the province of Québec.
@@ -230,6 +268,10 @@ Shows the map of the Bixi bikeshare system, with D-Pad navigation.
 ## org.benwiley.stm4flip
 
 [Source and releases](https://github.com/benwiley4000/stm4flip)
+
+### App name
+
+STM 4 Flip
 
 ### What it is
 
@@ -241,6 +283,10 @@ Shows the locations of nearby STM bus stops and what times the next 3 buses will
 
 [Source and releases](https://github.com/koreader/koreader)
 
+### App name
+
+KO Reader
+
 ### What it is
 
 An e-book and PDF reader that works with either volume or arrow controls for changing pages.
@@ -251,7 +297,7 @@ An e-book and PDF reader that works with either volume or arrow controls for cha
 
 You're gonna have no luck browsing in-app to choose a book, and you won't be able to access the reader configuration. But it works for reading!
 
-For actually opening e-books, I recommend [CX File Explorer](#com.cxinventor.file.explorer), since the default file explorer may not launch KO Reader correctly.
+For actually opening e-books, I recommend [Cx File Explorer](#com.cxinventor.file.explorer), since the default file explorer may not launch KO Reader correctly.
 
 ### PDFs are readable, but barely
 
@@ -264,6 +310,10 @@ If you have a choice to use EPUB instead of PDF, it's a much better experience.
 *I could only find this one at APKPure*
 
 [Found at APKPure](https://apkpure.com/notepad/org.korosoft.simplenotepad.android)
+
+### App name
+
+Notepad
 
 ### What it is
 
